@@ -3,16 +3,16 @@
 ## Participant Details
 
 **Full Name:**  
-<!-- Write your full name -->
+Aditya Srivastav
 
 **GitHub Username:**  
-<!-- Write your GitHub username -->
+Adityasri05
 
 **Team Name:**  
-<!-- Write your team name -->
+TechOrbiter
 
 **College/University:**  
-<!-- Write your college/university name -->
+Shri Ramswaroop Memorial College Of Engineering And Management
 
 ---
 
